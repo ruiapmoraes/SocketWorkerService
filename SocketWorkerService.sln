@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketWorkerService", "SocketWorkerService\SocketWorkerService.csproj", "{1BDC71C4-4E04-4D2C-9247-ED5765BB59C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSocketApp", "ClientSocketApp\ClientSocketApp.csproj", "{536C13C4-A993-45C8-9387-C46CE16F46F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDC71C4-4E04-4D2C-9247-ED5765BB59C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDC71C4-4E04-4D2C-9247-ED5765BB59C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDC71C4-4E04-4D2C-9247-ED5765BB59C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDC71C4-4E04-4D2C-9247-ED5765BB59C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536C13C4-A993-45C8-9387-C46CE16F46F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536C13C4-A993-45C8-9387-C46CE16F46F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536C13C4-A993-45C8-9387-C46CE16F46F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536C13C4-A993-45C8-9387-C46CE16F46F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44DC1301-FC67-451D-A40E-28ECD4076231}
+	EndGlobalSection
+EndGlobal
